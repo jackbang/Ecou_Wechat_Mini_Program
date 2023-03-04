@@ -1,7 +1,6 @@
-[submodule] newfrontend
+[submodule "newfrontend"]
 	path = newfrontend
 	url = https://github.com/jackbang/newfrontend
-
-[submodule] ownerversionfrontend
+[submodule "ownerversionfrontend"]
 	path = ownerversionfrontend
 	url = https://github.com/jackbang/ownerversionfrontend
